@@ -70,39 +70,6 @@
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="Unity.Timeline.Editor">
-<<<<<<< HEAD
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Universe/Unity Project/Mini_Project/새 폴더/Test_Version/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-=======
       <HintPath>D:/Universe/Unity Project/Mini_Project/Top of Abyss/Test_Version/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
@@ -134,7 +101,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/Universe/Unity Project/Mini_Project/Top of Abyss/Test_Version/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
->>>>>>> b20987266cdd959863284793cbda794f8d9ca708
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
