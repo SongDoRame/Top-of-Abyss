@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+asdasdasdasdasdasdas
+=======
 asdasdasdasdqzxdasdasd
+>>>>>>> efc14d468e2d766c08cb779450b301e80f9dacb9
