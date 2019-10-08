@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
+<<<<<<< HEAD
     // 나도 모른다!!
+=======
+    // 머꼬!!
+>>>>>>> f37fabdef3ccee5d05679ad2bc927fb826e2e94e
     public int _hp;                // 체력
     public int _damage;            // 공격력
     public int _defence;           // 방어력
