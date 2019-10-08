@@ -3320,7 +3320,11 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2131064893}
+<<<<<<< HEAD
         m_MethodName: Spear
+=======
+        m_MethodName: Hammer
+>>>>>>> f2e96139ce7325fa0b2a64a61d1b4db8bb04f95a
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
